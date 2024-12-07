@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Contact() {
     const CONTACT ={
-        address:"18/72 B Gayatri Nagar Kanpur ,Uttar Pradesh, 209861",
+        address:"Sector 13 Karnal, Haryana, Pincode - 132001",
         PhoneNo :"+91 8708557708",
         email : "thekhushideveloper@gmail.com"
         
